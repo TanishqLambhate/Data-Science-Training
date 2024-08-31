@@ -1,0 +1,16 @@
+a=10
+b=3
+addition=a+b
+subtraction=a-b
+multiplication=a*b
+division=a/b
+floor_division=a//b
+modulus=a%b
+exponentiation=a**b
+print(addition)
+print(subtraction)
+print(multiplication)
+print(division)
+print(floor_division)
+print(modulus)
+print(exponentiation)
